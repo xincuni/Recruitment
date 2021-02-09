@@ -1,2 +1,3 @@
 .idea/*
-*.log
+r*.log
+db.*
