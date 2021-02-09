@@ -1,3 +1,5 @@
 .idea/*
-r*.log
-db.*
+recruitment.admin.log
+recruitment.performance.log
+db.sqlite3
+*.pyc
