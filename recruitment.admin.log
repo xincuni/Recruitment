@@ -56,3 +56,30 @@
 2021-02-09 16:51:21,330 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
 2021-02-09 16:51:40,883 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/settings/base.py changed, reloading.
 2021-02-09 16:51:41,426 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:03:13,871 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:03:15,423 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:03:57,814 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:03:59,021 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:05:17,625 interview.admin 65 INFO     interviewer is in user's group for TomYang
+2021-02-09 17:05:17,636 interview.admin 65 INFO     interviewer is in user's group for TomYang
+2021-02-09 17:05:59,246 interview.admin 65 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:05:59,249 interview.admin 65 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:08:18,931 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:08:21,515 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:08:23,024 interview.admin 65 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:08:23,028 interview.admin 65 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:10:23,557 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:10:24,714 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:10:56,351 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:10:58,249 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:22:29,658 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:22:30,786 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:25:37,167 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:25:38,519 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:25:46,381 interview.admin 73 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:25:46,387 interview.admin 73 INFO     interviewer is in user's group for SandyGuo
+2021-02-09 17:26:11,616 interview.admin 38 INFO      admin has exported 1 candidate records
+2021-02-09 17:34:25,238 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:34:26,783 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 17:34:51,721 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 17:34:52,569 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
