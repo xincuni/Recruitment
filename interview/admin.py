@@ -55,6 +55,38 @@ class CandidateAdmin(admin.ModelAdmin):
     ordering = ('hr_result','second_result','first_result',)
 
     actions = [export_model_as_csv,]
+
+    # 增加只读的字段
+    def get_readonly_fields(self, request, obj):
+        group_names = self.get_group_names(request.user)
+
+        if 'interviewer' in group_names:
+            logger.info("interviewer is in user's group for %s" % request.user.username)
+            return ('first_interviewer_user','second_interviewer_user',)
+        return ()
+
+    def get_group_names(self, user):
+        group_names = []
+        for g in user.groups.all():
+            group_names.append(g.name)
+        return group_names
+
+    # 直接编辑页面元素
+    # list_editable = ('first_interviewer_user','second_interviewer_user')
+    default_editable = ('first_interviewer_user','second_interviewer_user')
+
+    def get_list_editable(self, request):
+        group_names = self.get_group_names(request.user)
+
+        if request.user.is_superuser or 'hr' in group_names:
+            return ('first_interviewer_user','second_interviewer_user',)
+        return ()
+
+    def get_changelist_instance(self, request):
+        self.list_editable = self.get_list_editable(request)
+        print(self.list_editable)
+        return super(CandidateAdmin, self).get_changelist_instance(request)
+
     fieldsets = (
         (None, {'fields': (
             "userid", ("username", "city", "phone"),

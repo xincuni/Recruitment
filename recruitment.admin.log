@@ -18,3 +18,36 @@
 2021-02-09 15:37:45,281 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
 2021-02-09 15:38:19,541 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/meettingroom/urls.py changed, reloading.
 2021-02-09 15:38:20,723 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:11:39,569 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:12:08,489 django.request 224 WARNING  Not Found: /
+2021-02-09 16:28:28,749 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:28:30,058 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:29:08,010 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:29:08,854 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:30:50,164 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:30:50,718 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:32:14,285 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:32:15,057 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:32:27,504 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:32:29,538 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:33:41,715 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:33:42,843 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:34:45,808 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:34:46,802 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:36:02,439 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:36:03,881 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:36:47,456 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:36:48,448 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:37:02,156 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:38:37,165 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:38:38,836 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:39:15,785 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:39:17,320 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:40:03,935 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:40:05,096 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:40:19,671 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:40:20,120 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:42:04,359 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:42:06,136 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
+2021-02-09 16:45:02,572 django.utils.autoreload 240 INFO     /Users/guoqingao/mystudy/py_stu/meettingroom/interview/admin.py changed, reloading.
+2021-02-09 16:45:03,974 django.utils.autoreload 617 INFO     Watching for file changes with StatReloader
