@@ -20,6 +20,7 @@ from django.utils.translation import gettext as _
 
 urlpatterns = [
     url(r"^", include('jobs.urls')),
+    path('grapprlli/',include('grappelli.urls')),
     path('admin/', admin.site.urls),
 ]
 
